@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: when using a sorted input it is way faster than the others.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fasteset among the three using random numbers as input.
+
+sort3 uses: Selection Sort
+
+How do you know?: it is slower than sort2 when using a random input, and have almost the same running time wen using a sorted input.
